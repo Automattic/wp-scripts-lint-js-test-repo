@@ -1,0 +1,4 @@
+/**
+ * Project blocks
+ */
+import './blocks';
